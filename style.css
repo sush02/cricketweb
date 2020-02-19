@@ -1,0 +1,26 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 65%;
+}
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+body
+    {
+       margin: 40px;
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: right;
+background-attachment: fixed;
+
+    }
+    #logo_image {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+   
